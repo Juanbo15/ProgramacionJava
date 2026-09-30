@@ -6,7 +6,7 @@ package quickbite.modelo;
 
 /**
  *
- * @author sebastiantorres
+ * @author CSU 2-2
  */
 public class Cliente {
 

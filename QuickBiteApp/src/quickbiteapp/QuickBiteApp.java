@@ -10,7 +10,7 @@ import quickbite.modelo.Plato;
 
 /**
  *
- * @author sebastiantorres
+ * @author CSU 2-2
  */
 public class QuickBiteApp {
 
